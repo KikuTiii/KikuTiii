@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E4BF7A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF6D74&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+Name+is+Matheus+Kikuti;I'm+18+years+old;I+from+Brasil,+SP;I+study+software+engineer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EB573&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+Name+is+Matheus+Kikuti;I'm+18+years+old;I+from+Brasil,+SP;I+study+software+engineer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
   <div align="center">  
   <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=onedark-duo&hide_border=true&locale=pt_BR" alt="Matheus Kikuti" /> 
