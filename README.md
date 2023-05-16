@@ -7,7 +7,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=neon-dark&hide_border=true&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
