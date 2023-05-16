@@ -9,7 +9,7 @@
 </div>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KikuTiii&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KikuTiii&theme=elfin)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KikuTiii&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
