@@ -5,7 +5,7 @@
   <div align="center">  
   <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=onedark-duo&hide_border=true&locale=pt_BR" alt="Matheus Kikuti" /> 
   
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&hide_border=true&title_color=E4BF7A&text_color=d2c7b7&bg_color=E4BF7A" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&hide_border=true&title_color=E4BF7A&text_color=E4BF7A&bg_color=E4BF7A" />
 </div>
 
 
