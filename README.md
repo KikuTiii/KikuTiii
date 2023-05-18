@@ -9,7 +9,7 @@
 </div>
 
 
-<img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/fa8cbc79-89ef-4767-a35e-1c85a1f5fef2"/>
+<img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/0a33baa3-ace2-4e96-add6-395aa6750a5c"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KikuTiii&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
