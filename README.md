@@ -5,9 +5,8 @@
   <div align="center">  
   <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=midnight-purple&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" /> 
   
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&hide_border=true&title_color=9745F5&text_color=FFF&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&langs_count=10&hide_border=true&title_color=9745F5&text_color=FFF&bg_color=0d1117" />
 </div>
-
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KikuTiii&bg_color=0d1117&color=fff&line=9745F5&point=9745F5&area=true&hide_border=true)]
