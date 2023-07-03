@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79572f&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Kikuti;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+software+engineering+student.;Welcome!+:%29)](https://git.io/typing-svg)
   
   <div align="center">  
   <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=midnight-purple&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" /> 
   
- <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&langs_count=10&hide_border=true&title_color=9745F5&text_color=FFF&bg_color=0d1117" />
+ <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&langs_count=10&hide_border=true&title_color=79572f&text_color=FFF&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KikuTiii&bg_color=0d1117&color=fff&line=9745F5&point=9745F5&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KikuTiii&bg_color=0d1117&color=fff&line=79572f&point=79572f&area=true&hide_border=true)]
 
 <img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/0a33baa3-ace2-4e96-add6-395aa6750a5c"/>
 
