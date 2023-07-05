@@ -10,7 +10,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KikuTiii&bg_color=0d1117&color=ffffff&line=8e6d48&point=a68b6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KikuTiii&bg_color=0d1117&color=ffffff&line=8e6d48&point=a68b6e&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/0a33baa3-ace2-4e96-add6-395aa6750a5c"/>
 
