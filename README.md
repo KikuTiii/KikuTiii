@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=866743&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Kikuti;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+software+engineering+student.;Welcome!+:%29)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Kikuti;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+analysis+and+systems+development+student.;Welcome!+:%29)](https://git.io/typing-svg)
+                                                                                                           
   <div align="center">  
     
   <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=onedark-duo&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" /> 
