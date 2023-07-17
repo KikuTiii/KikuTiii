@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Kikuti;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+Systems+Analysis+and+Development+student.;Welcome!+:%29)](https://git.io/typing-svg)
                                                                                                            
-  <div align="center">
+  <div align="center"> 
     
   <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=onedark-duo&locale=pt_BR&border=0D1117&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" /> 
   
@@ -10,7 +10,7 @@
 </div>
 
 
-![Snake animation](https://github.com/KikuTiii/KikuTiii/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/KikuTiii/KikuTiii/blob/output/github-contribution-grid-snake.svg)-->
 
 <img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/0a33baa3-ace2-4e96-add6-395aa6750a5c"/>
 
