@@ -12,11 +12,12 @@
 
 <!--![Snake animation](https://github.com/KikuTiii/KikuTiii/blob/output/github-contribution-grid-snake.svg)-->
 
-<img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/0a33baa3-ace2-4e96-add6-395aa6750a5c"/>
+
+<!--<img  align="right" width="25%" height="195px" alt="Github" src="https://github.com/KikuTiii/KikuTiii/assets/111128991/0a33baa3-ace2-4e96-add6-395aa6750a5c"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KikuTiii&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
 <div align="center">  
 <a href="https://www.instagram.com/matheuskikuti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
