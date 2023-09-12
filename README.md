@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Kikuti;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+Systems+Analysis+and+Development+student.;Welcome!+:%29)](https://git.io/typing-svg)
                                                                                                            
-  <div align="center"> 
-    
-  <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=KikuTiii&theme=dark&locale=pt_BR&border=a3a2a0&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" /> 
+<div align="center">  
+ <img  width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=KikuTiii&show_icons=true&hide=contribs,prs&hide_border=true&cache_seconds=86400&bg_color=0d1117&theme=apprentice"/>
   
  <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&langs_count=10&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117" />
 </div>
@@ -30,29 +29,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KikuTiii}/count.svg" /></p> 
 <br></div>
 
-### Main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-
-### Other Knowledge:
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3a2a0&height=120&section=footer"/>
