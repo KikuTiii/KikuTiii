@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=KikuTiii&layout=compact&langs_count=10&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117"
      alt="Functional way is the right way"
      style="margin-top:20px;"
-     height="300px"
+     height="290px"
      width = "40%"
      align="left" />
 
