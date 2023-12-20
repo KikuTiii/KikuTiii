@@ -5,9 +5,11 @@
      alt="Functional way is the right way"
      style="margin-top:20px;"
      height="280px"
+     width = "40%"
      align="left" />
 
-<br><br>
+<br>
+
 ```python
 def Kikuti():
     return {
