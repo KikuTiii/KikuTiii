@@ -19,7 +19,9 @@ def Kikuti():
         "education": ("PROA", "42Sp", "SpTech")
         "city": "São Paulo, SP, BR",
         "langs": ("portuguese", "english")
-        "web_frameworks": ("Node.js", "React")
+        "programming_languages": ("C","JavaScript","Python"),
+        "web_technologies": ("HTML", "CSS3"),
+        "web_frameworks": ("Node.js", "React"),
     }
 ```
 
