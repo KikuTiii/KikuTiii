@@ -15,7 +15,7 @@ def Kikuti():
     return {
         "name": "Matheus kikuti Sousa",
         "age": 19,
-        "work_place": "...",
+        "work_place": "Rappi",
         "education": ("PROA", "42Sp", "SpTech")
         "city": "São Paulo, SP, BR",
         "langs": ("portuguese", "english")
