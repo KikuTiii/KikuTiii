@@ -20,7 +20,7 @@ def Kikuti():
         "city": "São Paulo, SP, BR",
         "langs": ("portuguese", "english")
         "programming": ("C","JavaScript","Python"),
-        "web_technologies": ("HTML", "CSS3"),
+        "web_technologies": ("HTML5", "CSS3"),
         "web_frameworks": ("Node.js", "React"),
     }
 ```
