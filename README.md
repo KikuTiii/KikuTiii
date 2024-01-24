@@ -16,12 +16,12 @@ def Kikuti():
         "name": "Matheus kikuti Sousa",
         "age": 19,
         "work_place": "Rappi",
-        "education": ("PROA", "42Sp", "SpTech")
+        "education": ("PROA", "42Sp", "SpTech"),
         "city": "São Paulo, SP, BR",
-        "langs": ("portuguese", "english")
+        "langs": ("portuguese", "english"),
         "programming": ("C","JavaScript","Python"),
         "web_technologies": ("HTML5", "CSS3"),
-        "web_frameworks": ("Node.js", "React"),
+        "web_frameworks": ("Node.js", "React")
     }
 ```
 
