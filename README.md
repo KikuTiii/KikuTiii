@@ -18,7 +18,7 @@ def Kikuti():
         "work_place": "Rappi",
         "education": ("PROA", "42Sp", "SpTech"),
         "city": "São Paulo, SP, BR",
-        "langs": ("portuguese", "english"),
+        "langs": ("Portuguese", "English"),
         "programming": ("C","Java","Python"),
         "web_technologies": ("HTML5", "CSS3", "Php"),
         "web_frameworks": ("Node.js", "React", "Laravel")
