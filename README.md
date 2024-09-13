@@ -21,7 +21,7 @@ def Kikuti():
         "langs": ("Portuguese", "English"),
         "programming": ("C","Java","Python"),
         "web_technologies": ("HTML5", "CSS3", "Php"),
-        "web_frameworks": ("Node.js", "React", "Laravel")
+        "frameworks": ("Node.js", "React", "Spring-Boot")
     }
 ```
 
